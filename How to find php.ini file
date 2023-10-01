@@ -1,0 +1,1 @@
+ini file: Whenever we install PHP, we can locate the configuration file inside the PHP folder. If using xampp, we can find the configuration file in one or many versions, inside the path '\xampp\php'. Note: Other versions of this file are php. ini-development and php.
